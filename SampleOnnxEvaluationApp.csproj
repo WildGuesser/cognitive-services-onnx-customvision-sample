@@ -111,6 +111,9 @@
     <Content Include="Assets\PlanktonModel.onnx">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\model.onnx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <None Include="SmplestTestApp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>

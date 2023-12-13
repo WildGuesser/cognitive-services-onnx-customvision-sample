@@ -31,7 +31,7 @@ namespace SampleOnnxEvaluationApp
     {
         private Stopwatch _stopwatch = new Stopwatch();
         private OnnxModel _model = null;
-        private const string _ourOnnxFileName = "PlanktonModel.onnx";
+        private const string _ourOnnxFileName = "model.onnx";
 
         public sealed class OnnxModelInput
         {
